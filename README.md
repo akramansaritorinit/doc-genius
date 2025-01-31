@@ -21,8 +21,8 @@ A Python-based application that uses Ollama and LangChain to analyze uploaded do
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/document-parser.git
-cd document-parser
+git clone https://github.com/akramansaritorinit/doc-genius.git
+cd doc-genius
 ```
 
 ### 2. Set Up Virtual Environment
